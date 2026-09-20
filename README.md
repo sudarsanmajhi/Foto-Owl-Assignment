@@ -1,25 +1,16 @@
-# React Navigation Version 6 Mix
+# React Navigation
 
-This project is part of a [tutorial series on React Navigation v6](https://youtube.com/playlist?list=PLQWFhX-gwJbmtZY4mcRE-k7hL9DigcGS-) on my [YouTube Channel](https://www.youtube.com/channel/UC43N9Z8Fm0gg1Lgpw0eS9rg).
+
 
 Here you'll find most of the navigator available in React Navigation along with some UI of the different screens of the app.
 
-# YouTube Video List
 
-- [Login & Register Screen UI Tutorial](https://youtu.be/5RUl8exLI-c)
+- [Login & Register Screen UI]
 
-- [Dynamic Tab Navigator in React Navigation 6](https://youtu.be/ihfS3kEvH2o)
 
-- [Custom Drawer Navigator in React Navigation 6](https://youtu.be/l8nY4Alk70Q)
-
-- [Gaming App in UI](https://www.youtube.com/watch?v=I5doVFcG94U)
-
-- [Getting Started with Stack Navigation 6 | Stack Navigator](https://www.youtube.com/watch?v=FWwKjxSgLl8)
 
 # App Screenshots
 
-![Gaming App UI](./screenshots/gaming-app-ui-with-tabbar.png)
-![Custom Drawer](./screenshots/custom-drawer-iphone.png)
-
-![Login UI](./screenshots/login-iphone.png)
-![Register UI](./screenshots/register-iphone.png)
+![Login UI](
+<img width="400" height="866" alt="login-iphone" src="https://github.com/user-attachments/assets/b83426be-ff97-4d7c-be20-2a1606ed1d9f" />
+![Register UI]<img width="400" height="866" alt="register-iphone" src="https://github.com/user-attachments/assets/dcdde594-80c9-433f-95f4-7db17bfbc7b0" />
